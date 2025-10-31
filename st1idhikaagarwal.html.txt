@@ -1,0 +1,116 @@
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rahul Sharma - Resume</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            margin: 40px;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 5px;
+        }
+        h1 {
+            text-align: center;
+            font-size: 28px;
+            text-decoration: underline;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 20px;
+            margin-top: 25px;
+        }
+        p {
+            text-align: justify;
+            margin: 10px 0;
+        }
+        .contact {
+            text-align: center;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+        .bold { font-weight: bold; }
+        .italic { font-style: italic; }
+        .underline { text-decoration: underline; }
+        ul, ol {
+            margin-left: 30px;
+        }
+        .dl dt {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        .dl dd {
+            margin-left: 20px;
+            font-style: italic;
+        }
+        .nested {
+            margin-left: 20px;
+        }
+        hr {
+            border: 1px dashed #ccc;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>IDHIKA AGARWAL</h1>
+
+    <!-- Contact Info -->
+    <div class="contact">
+        <p>
+            <span class="bold">Address:</span> 12/45, Green Park Colony,muzaffarnagar<br>
+            <span class="bold">Mobile:</span> +91 98765-43210 | 
+            <span class="bold">Email:</span> <a href="mailto:rahul.sharma@email.com">rahul.sharma@email.com</a><br>
+            <span class="bold">LinkedIn:</span> linkedin.com/in/rahulsharma-india
+        </p>
+    </div>
+
+    <hr>
+
+    <h2>Career Objective</h2>
+    <p>
+        To work in a challenging environment where I can <span class="bold">grow professionally</span> and contribute to the 
+        <span class="italic">organization's success</span> using my <u>technical skills</u> in 
+        <span class="bold">C++ programming</span> and <span class="italic">problem-solving</span>. 
+        I aim to become a <span class="underline">valuable team member</span> and achieve excellence in software development.
+    </p>
+
+    <h2>Achievements & Certifications</h2>
+<ol>
+<li>
+ secured <span class ="bold">list position</span> in inter college coding competition 
+<u/class= "nested">
+<li> solved 8/10 problem in 2 hours <li>
+<li> used turbo c++ for implementation</li>
+implementation </li> 
+</ul>
+</li>
+<li>
+active member of <span class ="italic">DTU coding club</span>
+</span>
+</li>
+</ol> 
+
+    
+    
+
+
+    <h2>Declaration</h2>
+    <p>
+        I hereby declare that the above-mentioned information is correct
+    </p>
+    <p style="text-align: right; margin-top: 30px;">
+        <span class="bold">(idhika agarwal)</span><br>
+        <span class="italic">Date: 31-Oct-2025</span>
+    </p>
+
+</body>
+</html>
